@@ -4,3 +4,4 @@ randomly selects a secret integer between 1 and 100 and asks the player to ident
 of guided guesses. After every guess, the program responds with directional feedback, narrowing the 
 search space until the player submits the exact value. Upon a correct guess, the game congratulates 
 the player and reports the total number of attempts taken. 
+To run the program, simply open the program in VS Code and run it. You will be prompted in the terminal for the remainder of the game.
